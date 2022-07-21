@@ -1,0 +1,9 @@
+extends template
+
+append content
+    h3 #{contact.name}
+    #langsandtools
+        for lang in langs
+            .langortool
+                a(href=lang.url)
+                    img(src=lang.img alt=lang.name)

@@ -1,0 +1,95 @@
+{
+
+    "langs": [
+
+        {
+            "name": "TypeScript",
+            "url": "https://www.typescriptlang.org/",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        },
+
+        {
+            "name": "CSS",
+            "url": "https://pl.wikipedia.org/wiki/CSS",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        },
+
+        {
+            "name": "HTML",
+            "url": "https://pl.wikipedia.org/wiki/HTML",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        },
+
+        {
+            "name": "JAVA",
+            "url": "https://www.java.com/",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+        },
+
+        {
+            "name": "Node.js",
+            "url": "https://nodejs.org/en/",
+            "img": "https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
+        },
+
+        {
+            "name": "JavaScript",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        },
+
+        {
+            "name": "MariaDB",
+            "url": "https://mariadb.org/",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        },
+
+        {
+            "name": "MySQL",
+            "url": "https://www.mysql.com/",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        },
+
+        {
+            "name": "SQLite",
+            "url": "https://www.sqlite.org/index.html",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"
+        },
+
+        {
+            "name": "SQL",
+            "url": "https://www.sql.com/",
+            "img": "https://sql-ag.de/wp-content/uploads/2017/12/SQL_Logo_RZ_RGB_blau.png"
+        },
+
+        {
+            "name": "PHP",
+            "url": "https://www.php.net/",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+        },
+
+        {
+            "name": "PostgreSQL",
+            "url": "https://www.postgresql.org/",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        },
+
+        {
+            "name": "Python",
+            "url": "https://www.python.org/",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
+        }
+
+    ],
+
+    "tools": [
+
+        {
+            "name": "Microsoft Azure",
+            "url": "https://azure.microsoft.com/en-in/",
+            "img": "https://cloudpartners.pl/wp-content/uploads/2021/09/azure.png"
+        }
+
+    ]
+
+}

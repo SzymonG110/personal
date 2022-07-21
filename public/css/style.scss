@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+
+    text-decoration: none;
+
+}
+
+html, body {
+
+    margin: 0;
+    padding: 0;
+
+    background-color: #212121;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+
+}
+
+#container {
+
+    margin: 20px;
+    text-align: center;
+
+    #langsandtools {
+
+        .langortool {
+
+            margin: 0 3px;
+            display: inline-block;
+
+            img {
+
+                height: 30px;
+
+            }
+
+        }
+
+    }
+
+}
