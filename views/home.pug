@@ -36,25 +36,21 @@ append content
     #projects
         h3 Projekty:
 
-        #main
-            for project in projects
-                .project
-                    h4=project.title
-                    p Autorzy:&nbsp;
-                        br
-                        | #{project.authors.join(', ')}
-                    if project.url
-                        i(class='fa fa-link')
-                        a(href=project.url target='_blank') &nbsp;Link!
-                    .links
-                        for link in project.links
-                            .link
-                                if link.type == 'link'
-                                    i(class='fa fa-link')
-                                    a(href=link.url target='_blank') &nbsp;Link!
-                                else
-                                    i(class='fab fa-' + link.type.toLowerCase())
-                                    a(href=link.url target='_blank') &nbsp;Link!
-
-
-    #all
+        for project in projects
+            .project
+                h4=project.title
+                p Autorzy:&nbsp;
+                    br
+                    | #{project.authors.join(', ')}
+                if project.url
+                    i(class='fa fa-link')
+                    a(href=project.url target='_blank') &nbsp;Link!
+                .links
+                    for link in project.links
+                        .link
+                            if link.type == 'link'
+                                i(class='fa fa-link')
+                                a(href=link.url target='_blank') &nbsp;Link!
+                            else
+                                i(class='fab fa-' + link.type.toLowerCase())
+                                a(href=link.url target='_blank') &nbsp;Link!

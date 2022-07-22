@@ -44,8 +44,18 @@ html, body {
   background: #313131;
   padding-bottom: 20px;
   margin: 10px 10px;
-  display: inline-block;
-  width: 40%;
+}
+@media (max-width: 858px) {
+  #container #projects .project {
+    display: table;
+    width: 100%;
+  }
+}
+@media (min-width: 859px) {
+  #container #projects .project {
+    display: inline-block;
+    width: 40%;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
