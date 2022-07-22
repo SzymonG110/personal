@@ -1,8 +1,8 @@
 import Route, {RouteOutput} from '../Types/Route.type'
 
 const contact = require('../../config/contact.json')
-const langsandtools = require('../../config/langsandtools.json')
-const projects = require('../../config/projects.json')
+const {langs, tools} = require('../../config/langsandtools.json')
+const {projects} = require('../../config/projects.json')
 
 export default class HomeRoute extends Route {
 
@@ -16,12 +16,9 @@ export default class HomeRoute extends Route {
             data: {
 
                 contact,
-                langs: langsandtools.langs,
-                tools: langsandtools.tools,
-                projects: {
-                    main: projects.main,
-                    all: projects.all
-                }
+                langs,
+                tools,
+                projects
 
             }
 

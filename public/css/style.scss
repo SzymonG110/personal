@@ -61,12 +61,27 @@ html, body {
 
     #contacts {
 
-        display: block;
 
         .contact {
 
             margin: 0 8px;
             display: inline-block;
+
+        }
+
+    }
+
+    #projects {
+
+        margin: 0 10%;
+
+        .project {
+
+            background: #313131;
+            padding-bottom: 20px;
+            margin: 10px 10px;
+            display: inline-block;
+            width: 40%;
 
         }
 

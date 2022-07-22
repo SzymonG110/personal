@@ -1,7 +1,60 @@
 {
 
-  "main": [],
+    "projects": [
 
-  "all": []
+        {
+            "title": "Personal",
+            "authors": [
+                "SzymonG110#8841"
+            ],
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/SzymonG110/personal"
+                },
+
+                {
+                    "type": "link",
+                    "url": "https://szymon.ml/"
+                }
+            ]
+
+        },
+
+        {
+            "title": "Xibbly",
+            "authors": [
+                "SzymonG110#8841",
+                "Mateusz#4711"
+            ],
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/Xibbly"
+                },
+
+                {
+                    "type": "discord",
+                    "url": "https://discord.gg/89gxvAP"
+                }
+            ]
+
+        },
+
+        {
+            "title": "DiscordWebhookPost",
+            "authors": [
+                "SzymonG110#8841"
+            ],
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/SzymonG110/DiscordWebhookPost"
+                }
+            ]
+
+        }
+
+    ]
 
 }

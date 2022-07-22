@@ -189,7 +189,7 @@
         {
             "name": "Photoshop",
             "url": "https://www.adobe.com/products/photoshop.html",
-            "img": "https://assets.stickpng.com/images/586d7ac125738d9f2d793e92.png"
+            "img": "https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png"
         },
 
         {
@@ -226,6 +226,12 @@
             "name": "MySQL Workbench",
             "url": "https://www.mysql.com/products/workbench/",
             "img": "https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200"
+        },
+
+        {
+            "name": "phpMyAdmin",
+            "url": "https://www.phpmyadmin.net/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PhpMyAdmin_logo_2010_hidef.svg/1200px-PhpMyAdmin_logo_2010_hidef.svg.png"
         },
 
         {

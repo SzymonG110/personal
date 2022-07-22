@@ -33,12 +33,19 @@ html, body {
 #container #langsandtools .langortool img:hover {
   height: 50px;
 }
-#container #contacts {
-  display: block;
-}
 #container #contacts .contact {
   margin: 0 8px;
   display: inline-block;
+}
+#container #projects {
+  margin: 0 10%;
+}
+#container #projects .project {
+  background: #313131;
+  padding-bottom: 20px;
+  margin: 10px 10px;
+  display: inline-block;
+  width: 40%;
 }
 
 /*# sourceMappingURL=style.css.map */

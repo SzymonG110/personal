@@ -2,24 +2,59 @@ extends template
 
 append content
     h3 #{contact.name}
+
     #langsandtools
         #langs
-            h4 Języki:
+            h3 Języki:
+
             for lang in langs
                 .langortool
-                    a(href=lang.url target="_blank")
+                    a(href=lang.url target='_blank')
                         img(src=lang.img alt=lang.name)
 
         #tools
-            h4 Narzędzia i aplikacje:
+            h3 Narzędzia i aplikacje:
+
             for tool in tools
                 .langortool
-                    a(href=tool.url target="_blank")
+                    a(href=tool.url target='_blank')
                         img(src=tool.img alt=tool.name)
 
+    #abaut
+        h3 O mnie:
+
+        p #{contact.about}
+
     #contacts
-        h4 Kontakt:
+        h3 Kontakt:
+
         for link in contact.links
             .contact
-                i(class="fab fa-" + link.name.toLowerCase())
-                a(href=link.url target="_blank") &nbsp;#{link.name}
+                i(class='fab fa-' + link.name.toLowerCase())
+                a(href=link.url target='_blank') &nbsp;#{link.name}
+
+    #projects
+        h3 Projekty:
+
+        #main
+            for project in projects
+                .project
+                    h4=project.title
+                    p Autorzy:&nbsp;
+                        br
+                        | #{project.authors.join(', ')}
+                    if project.url
+                        i(class='fa fa-link')
+                        a(href=project.url target='_blank') &nbsp;Link!
+                    .links
+                        for link in project.links
+                            .link
+                                if link.type == 'link'
+                                    i(class='fa fa-link')
+                                    a(href=link.url target='_blank') &nbsp;Link!
+                                else
+                                    i(class='fab fa-' + link.type.toLowerCase())
+                                    a(href=link.url target='_blank') &nbsp;Link!
+
+
+    #all
