@@ -1,6 +1,25 @@
 {
 
-  "name": "SzymonG110",
-  "links": []
+    "name": "SzymonG110",
+    "age": "15",
+
+    "links": [
+
+        {
+            "name": "GitHub",
+            "url": "https://github.com/SzymonG110"
+        },
+
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/89gxvAP"
+        },
+
+        {
+            "name": "Discord",
+            "url": "https://discord.com/users/548255235823501322"
+        }
+
+    ]
 
 }

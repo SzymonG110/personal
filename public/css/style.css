@@ -15,12 +15,30 @@ html, body {
   margin: 20px;
   text-align: center;
 }
+#container a {
+  color: white;
+  transition: 0.5s;
+}
+#container a:hover {
+  color: lightblue;
+}
 #container #langsandtools .langortool {
   margin: 0 3px;
   display: inline-block;
 }
 #container #langsandtools .langortool img {
   height: 30px;
+  transition: 0.5s;
+}
+#container #langsandtools .langortool img:hover {
+  height: 50px;
+}
+#container #contacts {
+  display: block;
+}
+#container #contacts .contact {
+  margin: 0 8px;
+  display: inline-block;
 }
 
 /*# sourceMappingURL=style.css.map */

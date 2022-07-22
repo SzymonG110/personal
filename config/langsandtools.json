@@ -15,9 +15,21 @@
         },
 
         {
+            "name": "SCSS/SASS",
+            "url": "https://sass-lang.com/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"
+        },
+
+        {
             "name": "HTML",
             "url": "https://pl.wikipedia.org/wiki/HTML",
             "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        },
+
+        {
+            "name": "Pug",
+            "url": "https://pugjs.org/",
+            "img": "https://amandeepmittal.gallerycdn.vsassets.io/extensions/amandeepmittal/pug/1.0.1/1509818475774/Microsoft.VisualStudio.Services.Icons.Default"
         },
 
         {
@@ -57,6 +69,12 @@
         },
 
         {
+            "name": "C++",
+            "url": "https://en.wikipedia.org/wiki/Cpp",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+        },
+
+        {
             "name": "SQL",
             "url": "https://www.sql.com/",
             "img": "https://sql-ag.de/wp-content/uploads/2017/12/SQL_Logo_RZ_RGB_blau.png"
@@ -88,6 +106,138 @@
             "name": "Microsoft Azure",
             "url": "https://azure.microsoft.com/en-in/",
             "img": "https://cloudpartners.pl/wp-content/uploads/2021/09/azure.png"
+        },
+
+        {
+            "name": "Express",
+            "url": "https://expressjs.com/",
+            "img": "https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png"
+        },
+
+        {
+            "name": "discord.js",
+            "url": "https://discord.js.org/#/",
+            "img": "https://raw.githubusercontent.com/github/explore/888aa7196bdda1de09e848148fc5929ccfe49ab6/topics/discord-js/discord-js.png"
+        },
+
+        {
+            "name": "Bootstrap",
+            "url": "https://getbootstrap.com/",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+        },
+
+        {
+            "name": "Font Awesome",
+            "url": "https://fontawesome.com/",
+            "img": "https://i0.wp.com/blog.fontawesome.com/wp-content/uploads/2019/07/avatar-blue-scale-0.5@2x.png"
+        },
+
+        {
+            "name": "Google Fonts",
+            "url": "https://fonts.google.com/",
+            "img": "https://seeklogo.com/images/G/google-fonts-logo-185D843C0C-seeklogo.com.png"
+        },
+
+        {
+            "name": "Google Cloud Platform",
+            "url": "https://cloud.google.com/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/2048px-Google-cloud-platform.svg.png"
+        },
+
+        {
+            "name": "Cloudflare",
+            "url": "https://www.cloudflare.com/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png"
+        },
+
+        {
+            "name": "GitHub",
+            "url": "https://github.com/SzymonG110",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ei-sc-github.svg/768px-Ei-sc-github.svg.png"
+        },
+
+        {
+            "name": "Git",
+            "url": "https://git-scm.com/",
+            "img": "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
+        },
+
+        {
+            "name": "Heroku",
+            "url": "https://heroku.com/",
+            "img": "https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667"
+        },
+
+        {
+            "name": "Linux",
+            "url": "https://www.linux.org/",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+        },
+
+        {
+            "name": "Debian",
+            "url": "https://www.debian.org/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png"
+        },
+
+        {
+            "name": "Nginx",
+            "url": "https://nginx.org/",
+            "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+        },
+
+        {
+            "name": "Photoshop",
+            "url": "https://www.adobe.com/products/photoshop.html",
+            "img": "https://assets.stickpng.com/images/586d7ac125738d9f2d793e92.png"
+        },
+
+        {
+            "name": "Postman",
+            "url": "https://www.postman.com/",
+            "img": "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
+        },
+
+        {
+            "name": "IntelliJ IDEA",
+            "url": "https://www.jetbrains.com/idea/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"
+        },
+
+        {
+            "name": "Visual Studio Code",
+            "url": "https://code.visualstudio.com/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
+        },
+
+        {
+            "name": "PuTTY",
+            "url": "https://www.putty.org/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png"
+        },
+
+        {
+            "name": "WinSCP",
+            "url": "https://winscp.net/eng/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png?20121019215322"
+        },
+
+        {
+            "name": "MySQL Workbench",
+            "url": "https://www.mysql.com/products/workbench/",
+            "img": "https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200"
+        },
+
+        {
+            "name": "MongoDB Compass",
+            "url": "https://www.mongodb.com/products/compass",
+            "img": "https://icon2.cleanpng.com/20180403/rww/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9eb3d294.1874788615228143667366.jpg"
+        },
+
+        {
+            "name": "Github Desktop",
+            "url": "https://desktop.github.com/",
+            "img": "https://miro.medium.com/max/600/1*p6exlg2Jrl3pimjPy7R-sA.png"
         }
 
     ]

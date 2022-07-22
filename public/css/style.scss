@@ -22,6 +22,19 @@ html, body {
     margin: 20px;
     text-align: center;
 
+    a {
+
+        color: white;
+        transition: .5s;
+
+    }
+
+    a:hover {
+
+        color: lightblue;
+
+    }
+
     #langsandtools {
 
         .langortool {
@@ -32,8 +45,28 @@ html, body {
             img {
 
                 height: 30px;
+                transition: .5s;
 
             }
+
+            img:hover {
+
+                height: 50px;
+
+            }
+
+        }
+
+    }
+
+    #contacts {
+
+        display: block;
+
+        .contact {
+
+            margin: 0 8px;
+            display: inline-block;
 
         }
 
