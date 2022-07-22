@@ -244,6 +244,12 @@
             "name": "Github Desktop",
             "url": "https://desktop.github.com/",
             "img": "https://miro.medium.com/max/600/1*p6exlg2Jrl3pimjPy7R-sA.png"
+        },
+
+        {
+            "name": "Stack Overflow",
+            "url": "https://stackoverflow.com/",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"
         }
 
     ]

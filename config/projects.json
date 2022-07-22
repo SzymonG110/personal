@@ -53,6 +53,22 @@
                 }
             ]
 
+        },
+
+        {
+            "title": "DBP Pomocnik",
+            "authors": [
+                "Dezet#2715",
+                "Mateusz#4711",
+                "SzymonG110#8841"
+            ],
+            "links": [
+                {
+                    "type": "discord",
+                    "url": "https://discord.gg/d7u7bsjzQ5"
+                }
+            ]
+
         }
 
     ]
